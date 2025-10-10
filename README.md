@@ -86,11 +86,14 @@ return 0;
 }
 ```
 
-```
 ### OUTPUT
-
+```linux
 -rwxr-xr-x 1 root root 18376 Apr 17 14:20 text.o
 ```
+<img width="890" height="471" alt="image" src="https://github.com/user-attachments/assets/462d1b9c-1dd0-45c0-9e4d-858669545b15" />
+
+<img width="1037" height="823" alt="image" src="https://github.com/user-attachments/assets/5cd81e56-06cd-4e5e-addc-169bf137ca18" />
+
 
 
 # RESULT:
